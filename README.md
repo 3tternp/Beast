@@ -45,4 +45,4 @@ Protocol: TLS v1 Server Preferred Cipher: ECDHE-RSA-RC4-SHA Vulnerable: NO
 Thanks to http://yehg.net/ for creating such script to check the Beast vulnerability 
 
 
-
+ALl crhttp://yehg.net/edit for this script goes to developer of this script and http://yehg.net/
