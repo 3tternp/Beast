@@ -40,5 +40,9 @@ SSL/TLS BEAST Vulnerability Check by YGN Ethical Hacker Group, http://yehg.net/
 Target: www.google.com:443
 The target is NOT vulnerable to BEAST attack.
 
-Protocol: TLS v1 Server Preferred Cipher: ECDHE-RSA-RC4-SHA Vulnerable: NO
+Protocol: TLS v1 Server Preferred Cipher: ECDHE-RSA-RC4-SHA Vulnerable: NO 
+
+Thanks to http://yehg.net/ for creating such script to check the Beast vulnerability 
+
+
 
